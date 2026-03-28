@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Vishwajeet 👋
 
-<!--
-**Vishwajeet-keni/Vishwajeet-keni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and student who enjoys building things that are purposeful, efficient,
+and well-crafted — from local AI systems to embedded hardware projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🐍 Python is my primary language — I use it for scripting, automation, and AI projects
+- 🐧 Daily driving Arch Linux — I care about my tools and how they work
+- 🌐 Building for the web with modern frontend and backend technologies
+- 🔌 Hands-on with embedded systems — Arduino, NodeMCU, and Raspberry Pi
+- 🤖 Interested in local AI, privacy-first software, and offline-capable systems
+
+---
+
+## What I Build
+
+- **AI & ML tools** — local LLM applications, speech recognition, private AI assistants
+- **Embedded projects** — sensor integration, automation, IoT with Arduino and NodeMCU
+- **Web applications** — clean, functional interfaces and backend systems
+- **Linux tooling** — scripts, workflows, and environment customization
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, JavaScript, C |
+| Embedded | Arduino, NodeMCU, Raspberry Pi |
+| AI / Local LLMs | Ollama, faster-whisper, Piper |
+| UI | PyQt6, HTML/CSS |
+| OS | Arch Linux |
+| Version Control | Git, GitHub |
+
+---
+
+## Connect
+
+Feel free to explore my repositories, raise issues, or reach out if you want to collaborate.
+I'm always open to building something meaningful.
+
+---
+
+*Writing code that respects the user — private, local, and purposeful.*
