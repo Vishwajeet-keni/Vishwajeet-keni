@@ -1,4 +1,4 @@
-# Hi, I'm Vishwajeet 👋
+# Hi, I'm Vishwajeet 
 
 I'm a developer and student who enjoys building things that are purposeful, efficient,
 and well-crafted — from local AI systems to embedded hardware projects.
