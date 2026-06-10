@@ -7,11 +7,11 @@ and well-crafted — from local AI systems to embedded hardware projects.
 
 ## About Me
 
-- 🐍 Python is my primary language — I use it for scripting, automation, and AI projects
-- 🐧 Daily driving Arch Linux — I care about my tools and how they work
-- 🌐 Building for the web with modern frontend and backend technologies
-- 🔌 Hands-on with embedded systems — Arduino, NodeMCU, and Raspberry Pi
-- 🤖 Interested in local AI, privacy-first software, and offline-capable systems
+-  Python is my primary language — I use it for scripting, automation, and AI projects
+-  Daily driving Arch Linux — I care about my tools and how they work
+-  Building for the web with modern frontend and backend technologies
+-  Hands-on with embedded systems — Arduino, NodeMCU, and Raspberry Pi
+-  Interested in local AI, privacy-first software, and offline-capable systems
 
 ---
 
